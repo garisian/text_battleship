@@ -4,7 +4,7 @@ from math import sqrt
 from board import board 
 from boats import boats
 
-
+#/Testcases to check if functions in battleship game works/#
 class Testgame(unittest.TestCase):
         
     def setUp(self):
